@@ -8148,6 +8148,286 @@
                 "https://cdn.openkogama.org/versions/c1b26a990d67f5fa620fd521a6cf470a7a4fbcda98a283a7b89526367c6e2668.zip",
                 "https://github.com/bustersky13/version-storage/releases/download/versions/kogama-125013-d151586e-3d66-4fde-aac7-7fc58762717e.zip"
             ]
+        },
+        {
+            "id": "9d5cf890-17c9-571b-9816-8d1973abcaef",
+            "version": "1.25.12.280",
+            "unityVersion": "5.1.1f1",
+            "timestamp": 1439379738,
+            "il2cpp": false,
+            "zipSize": 24105881,
+            "unpackedSize": 59246015,
+            "sha256": "eb761355cef4346a802d2b79e81f5df40cbda64d0e5403eae535d38261816886",
+            "urls": [
+                "https://cdn.openkogama.org/versions/eb761355cef4346a802d2b79e81f5df40cbda64d0e5403eae535d38261816886.zip",
+                "https://archive.org/download/kogama_Data2015/kogama_Data2015.rar"
+            ]
+        },
+        {
+            "id": "bdb78226-32c9-5a43-91a5-86f8137bfe4e",
+            "version": "1.9.0.1",
+            "unityVersion": "3.5.7f6",
+            "timestamp": 1405354409,
+            "il2cpp": false,
+            "zipSize": 4795370,
+            "unpackedSize": 20363748,
+            "sha256": "7ff2d9246c2e8bd92fef4daad986db791f30e0d14eefcaf2a43f306be3c0afa4",
+            "urls": [
+                "https://cdn.openkogama.org/versions/7ff2d9246c2e8bd92fef4daad986db791f30e0d14eefcaf2a43f306be3c0afa4.zip",
+                "http://eu.kogama.com.s3.amazonaws.com/player/88049bbd7aef1f02afa62c82324ef7bb"
+            ]
+        },
+        {
+            "id": "4826e8c3-ebed-5836-838c-840aa425817e",
+            "version": "1.8.15.2",
+            "unityVersion": "3.5.7f6",
+            "timestamp": 1405085326,
+            "il2cpp": false,
+            "zipSize": 4792037,
+            "unpackedSize": 20345860,
+            "sha256": "ac2f69358a765559f7c89d6ac631c7686df0849f6e3c4681ac304373c3950548",
+            "urls": [
+                "https://cdn.openkogama.org/versions/ac2f69358a765559f7c89d6ac631c7686df0849f6e3c4681ac304373c3950548.zip",
+                "http://eu.kogama.com.s3.amazonaws.com/player/70d200c7e81ed590fc98d3d83ce386d0"
+            ]
+        },
+        {
+            "id": "123fb206-08b9-5321-bebb-ac6810f6f228",
+            "version": "1.8.11.1",
+            "unityVersion": "3.5.7f6",
+            "timestamp": 1403697334,
+            "il2cpp": false,
+            "zipSize": 4796405,
+            "unpackedSize": 20363748,
+            "sha256": "b19cede13fb0cecaa1b7f637f5b77daab91d8ae7ce36f1cc55372cad7e610f7c",
+            "urls": [
+                "https://cdn.openkogama.org/versions/b19cede13fb0cecaa1b7f637f5b77daab91d8ae7ce36f1cc55372cad7e610f7c.zip",
+                "http://test.kogama.com.s3.amazonaws.com/player/b07a914a5990a27035f895cd0859572e"
+            ]
+        },
+        {
+            "id": "5030b392-40aa-58b3-bbab-ec123ec40e75",
+            "version": "1.8.9.2",
+            "unityVersion": "3.5.7f6",
+            "timestamp": 1402489903,
+            "il2cpp": false,
+            "zipSize": 4793799,
+            "unpackedSize": 20345860,
+            "sha256": "b8ca4832bd45a6ec7f31ce1c2c3590f2fcff5e0a020aa0a8b0b2f035f1b53245",
+            "urls": [
+                "https://cdn.openkogama.org/versions/b8ca4832bd45a6ec7f31ce1c2c3590f2fcff5e0a020aa0a8b0b2f035f1b53245.zip",
+                "http://eu.kogama.com.s3.amazonaws.com/player/b680e3ba74b429ef713f152e134c1270"
+            ]
+        },
+        {
+            "id": "62e4a2b8-b531-585d-8823-dae18c2e91ce",
+            "version": "1.8.8.4",
+            "unityVersion": "3.5.7f6",
+            "timestamp": 1401352884,
+            "il2cpp": false,
+            "zipSize": 5346083,
+            "unpackedSize": 20932268,
+            "sha256": "c4a8809a5fd292cffe7b3b9c39fd406f46114d93e04dac2142e19e0cc3fb3b45",
+            "urls": [
+                "https://cdn.openkogama.org/versions/c4a8809a5fd292cffe7b3b9c39fd406f46114d93e04dac2142e19e0cc3fb3b45.zip",
+                "http://eu.kogama.com.s3.amazonaws.com/player/b751e8f6d68e2465fb0143a719a7a2d6"
+            ]
+        },
+        {
+            "id": "17bbb617-9d84-5d97-9c11-c10de31890a9",
+            "version": "1.8.7.2",
+            "unityVersion": "3.5.7f6",
+            "timestamp": 1398427036,
+            "il2cpp": false,
+            "zipSize": 5345875,
+            "unpackedSize": 20930836,
+            "sha256": "51313e38d4e065b1bc6e702ff62c1462ed592443b18192eb57ae0a9495e1eeea",
+            "urls": [
+                "https://cdn.openkogama.org/versions/51313e38d4e065b1bc6e702ff62c1462ed592443b18192eb57ae0a9495e1eeea.zip",
+                "http://eu.kogama.com.s3.amazonaws.com/player/4388665a433282ec1ee7bfdf790e4607"
+            ]
+        },
+        {
+            "id": "4e3f3591-00e5-5d8c-a471-6b6fd4f7a30c",
+            "version": "1.8.6.10",
+            "unityVersion": "3.5.7f6",
+            "timestamp": 1398168981,
+            "il2cpp": false,
+            "zipSize": 5583698,
+            "unpackedSize": 21573040,
+            "sha256": "6f115fe8adbef934d712d905f7423aac5d223eb68317b26cabceb066514e659b",
+            "urls": [
+                "https://cdn.openkogama.org/versions/6f115fe8adbef934d712d905f7423aac5d223eb68317b26cabceb066514e659b.zip",
+                "http://test.kogama.com.s3.amazonaws.com/player/5b08654ae4006fc90f1f864ef26b1201"
+            ]
+        },
+        {
+            "id": "8b0c2bba-d888-500e-84cb-c5956c8d7c2d",
+            "version": "1.8.6.5",
+            "unityVersion": "3.5.7f6",
+            "timestamp": 1396011322,
+            "il2cpp": false,
+            "zipSize": 5045000,
+            "unpackedSize": 20276948,
+            "sha256": "e2fa82113a9f938275dbf27bc87b3f2e9c513608cd00beac37c587c281384ee8",
+            "urls": [
+                "https://cdn.openkogama.org/versions/e2fa82113a9f938275dbf27bc87b3f2e9c513608cd00beac37c587c281384ee8.zip",
+                "http://eu.kogama.com.s3.amazonaws.com/player/1855373468c6b3e2265b566ac9f528ac"
+            ]
+        },
+        {
+            "id": "c312dea4-3def-50ed-8e45-3da26b2cd477",
+            "version": "1.8.5.7",
+            "unityVersion": "3.5.7f6",
+            "timestamp": 1394806818,
+            "il2cpp": false,
+            "zipSize": 5043155,
+            "unpackedSize": 20278572,
+            "sha256": "c193ac6f600d6fdea673f6b4390d6e603e20ca3de97a42abedf838f405bbe3f2",
+            "urls": [
+                "https://cdn.openkogama.org/versions/c193ac6f600d6fdea673f6b4390d6e603e20ca3de97a42abedf838f405bbe3f2.zip",
+                "http://eu.kogama.com.s3.amazonaws.com/player/b862384e4d308fdff859b1908fe8c09a"
+            ]
+        },
+        {
+            "id": "cd744363-a769-5bfb-adf4-817feeae8f6e",
+            "version": "1.8.5.6",
+            "unityVersion": "3.5.7f6",
+            "timestamp": 1394806444,
+            "il2cpp": false,
+            "zipSize": 5044863,
+            "unpackedSize": 20278572,
+            "sha256": "cf91eda361305e71e6d728071ca585f383a223768dc0dbe10500554441c0b795",
+            "urls": [
+                "https://cdn.openkogama.org/versions/cf91eda361305e71e6d728071ca585f383a223768dc0dbe10500554441c0b795.zip",
+                "http://test.kogama.com.s3.amazonaws.com/player/5c7c6ac82eb0c13afed5d2e6f786897d"
+            ]
+        },
+        {
+            "id": "f09f31f7-9ab7-5949-9a1f-33c1261873bf",
+            "version": "1.8.5.3",
+            "unityVersion": "3.5.7f6",
+            "timestamp": 1394706159,
+            "il2cpp": false,
+            "zipSize": 5040713,
+            "unpackedSize": 20278060,
+            "sha256": "78623c705573c8e5aed1a13520642ba5f1bda873b7bfe49621adcb1de7f9382d",
+            "urls": [
+                "https://cdn.openkogama.org/versions/78623c705573c8e5aed1a13520642ba5f1bda873b7bfe49621adcb1de7f9382d.zip",
+                "http://eu.kogama.com.s3.amazonaws.com/player/a3b9f42b8d5e531596ec4ef5d804d63f"
+            ]
+        },
+        {
+            "id": "298c08d4-d766-5517-bf05-5091c7079f3c",
+            "version": "1.8.4.8",
+            "unityVersion": "3.5.7f6",
+            "timestamp": 1394531354,
+            "il2cpp": false,
+            "zipSize": 5046810,
+            "unpackedSize": 20278060,
+            "sha256": "c00628905532784dcfe30070c1f1313af3c108a3218ebbb00a72f173003c73ca",
+            "urls": [
+                "https://cdn.openkogama.org/versions/c00628905532784dcfe30070c1f1313af3c108a3218ebbb00a72f173003c73ca.zip",
+                "http://test.kogama.com.s3.amazonaws.com/player/812599f82542a6c32d96a3e3157ecd4b"
+            ]
+        },
+        {
+            "id": "87b0b726-be4d-52b1-b4ec-0005d25eb6cc",
+            "version": "1.8.4.7",
+            "unityVersion": "3.5.7f6",
+            "timestamp": 1393857466,
+            "il2cpp": false,
+            "zipSize": 5047005,
+            "unpackedSize": 20278084,
+            "sha256": "c4e1bfcf165566b075bb9c2394626d8575e5f91319d0ec865968b59e6ceb1348",
+            "urls": [
+                "https://cdn.openkogama.org/versions/c4e1bfcf165566b075bb9c2394626d8575e5f91319d0ec865968b59e6ceb1348.zip",
+                "http://eu.kogama.com.s3.amazonaws.com/player/6245ac01ac47901bba51d9618c972eb9"
+            ]
+        },
+        {
+            "id": "62a5c856-a73e-570c-b949-0af9eb9650a0",
+            "version": "1.8.3.8",
+            "unityVersion": "3.5.7f6",
+            "timestamp": 1393628638,
+            "il2cpp": false,
+            "zipSize": 5081277,
+            "unpackedSize": 20112964,
+            "sha256": "6580ed649b9709cabeb35f6bcdd8f6706c3245bb2395bdde8762c7efbf4b4522",
+            "urls": [
+                "https://cdn.openkogama.org/versions/6580ed649b9709cabeb35f6bcdd8f6706c3245bb2395bdde8762c7efbf4b4522.zip",
+                "http://eu.kogama.com.s3.amazonaws.com/player/e0c83c3a992105ce514fc87062e18995"
+            ]
+        },
+        {
+            "id": "caca7c82-4685-5049-8049-33fcc1dae5e8",
+            "version": "1.8.4.7",
+            "unityVersion": "3.5.7f6",
+            "timestamp": 1393595143,
+            "il2cpp": false,
+            "zipSize": 5045348,
+            "unpackedSize": 20278572,
+            "sha256": "7c0b5f5f89271d8d7bacee525c193431280fae0b035052c8139c44bcfa14117b",
+            "urls": [
+                "https://cdn.openkogama.org/versions/7c0b5f5f89271d8d7bacee525c193431280fae0b035052c8139c44bcfa14117b.zip",
+                "http://eu.kogama.com.s3.amazonaws.com/player/72d53c106dd821161e86e4d1b7e8e094"
+            ]
+        },
+        {
+            "id": "1f5a04b7-36ed-5407-aa0d-6863bd35f624",
+            "version": "1.8.4.6",
+            "unityVersion": "3.5.7f6",
+            "timestamp": 1393593184,
+            "il2cpp": false,
+            "zipSize": 5044983,
+            "unpackedSize": 20278572,
+            "sha256": "48f0cef4726eb22aefa25f61b46987dc7a1af1825344af923de2e3e41139601e",
+            "urls": [
+                "https://cdn.openkogama.org/versions/48f0cef4726eb22aefa25f61b46987dc7a1af1825344af923de2e3e41139601e.zip",
+                "http://eu.kogama.com.s3.amazonaws.com/player/394c039725c29775b1cfdf9fd08c5e5c"
+            ]
+        },
+        {
+            "id": "428318f9-ee83-56b2-a1b8-48c7f13dd0b1",
+            "version": "1.8.4.2",
+            "unityVersion": "3.5.7f6",
+            "timestamp": 1393519229,
+            "il2cpp": false,
+            "zipSize": 5045894,
+            "unpackedSize": 20278572,
+            "sha256": "da68d7fd9a3356689fe0e25f06be62ad497c275ebab28ae94ba5ddd865572e91",
+            "urls": [
+                "https://cdn.openkogama.org/versions/da68d7fd9a3356689fe0e25f06be62ad497c275ebab28ae94ba5ddd865572e91.zip",
+                "http://eu.kogama.com.s3.amazonaws.com/player/9e7b101483077ee3421b54ae9ecde01c"
+            ]
+        },
+        {
+            "id": "a5cf0141-d2c2-522d-a154-192371a3b3bf",
+            "version": "1.8.3.2",
+            "unityVersion": "3.5.7f6",
+            "timestamp": 1392293934,
+            "il2cpp": false,
+            "zipSize": 5004129,
+            "unpackedSize": 19827476,
+            "sha256": "b63544e02b10a1160c24b5e15b73ecab1cae1415a9f8bc158aa0ae080583850d",
+            "urls": [
+                "https://cdn.openkogama.org/versions/b63544e02b10a1160c24b5e15b73ecab1cae1415a9f8bc158aa0ae080583850d.zip",
+                "http://test.kogama.com.s3.amazonaws.com/player/fce0cdb99bdbe84818cfd84eea344082"
+            ]
+        },
+        {
+            "id": "ad4cad4f-0ba4-5a14-8205-d5c8d4f25d57",
+            "version": "",
+            "unityVersion": "3.4.2f2",
+            "timestamp": 1327271495,
+            "il2cpp": false,
+            "zipSize": 4594946,
+            "unpackedSize": 14973489,
+            "sha256": "11e40d778b3fe3f815931b27ae95c4881c88d1a677214a22fe9338fa2e3809c9",
+            "urls": [
+                "https://cdn.openkogama.org/versions/11e40d778b3fe3f815931b27ae95c4881c88d1a677214a22fe9338fa2e3809c9.zip",
+                "https://archive.org/download/kogama-2012E-client/koga2011.unity3d"
+            ]
         }
     ]
 }
